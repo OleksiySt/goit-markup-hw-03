@@ -158,6 +158,7 @@ align-items: center;
         font-weight: 500;
         color: #fff;
         background-color: #4D5AE5;
+        cursor: pointer;
 }
 
 .hero-button:hover,
